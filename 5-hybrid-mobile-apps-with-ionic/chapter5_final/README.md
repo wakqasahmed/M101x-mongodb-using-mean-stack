@@ -23,7 +23,7 @@ To complete this assignment, you need to do 2 things:
 In order to run tests, you should:
 
 1. Run `npm install` in the provided sample code
-1. Start karma using `./node_modules/karma/bin/karma start ./karma.local.conf.js`
+1. Start karma using `./node_modules/karma/bin/karma start ./karma.local.conf.js` or `node ./node_modules/karma/bin/karma start ./karma.local.conf.js`
 1. Modify `www/js/app.js` and `www/templates/tab-search.html` until the tests pass
 and karma gives you the below output:
 
